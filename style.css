@@ -1,0 +1,79 @@
+body{
+	background-color: rgb(230, 230, 230);
+	color:rgb(25, 25, 25);
+}
+
+h1 {
+	color: rgb(0, 51, 102);
+	font-family:Impact ;
+	font-size: 40px;
+	text-align: center;
+}
+h2 {
+	color: rgb(0, 51, 102);
+	font-family:Impact ;
+	font-size: 32px;
+	text-align: center;
+}
+
+p {
+	color: rgb(0, 60, 150);
+	font-family: Cambria;
+	line-height: 1;
+	letter-spacing: 1.3px;
+	font-size: 20px;
+	text-align: center;
+}
+
+img {
+	width: 100px;
+	border-radius: 50%;
+}
+
+a {
+	color: rgb(0, 51, 102);
+	text-align: center;
+	font-size: 25px;
+}
+
+.card-white {
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	padding: 35px;
+	margin: 35px auto;
+	text-align: center;
+}
+
+.btn-blue {
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+}
+
+#logo {
+	width: 40px;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
